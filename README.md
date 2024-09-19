@@ -1,5 +1,7 @@
 # 3D-Pac-Man
+
 Starter Code for the PacMan Project.
+
 Unity Version: 2023.2.5f1
 
 This 3D Pac-Man game takes the classic arcade experience to a new dimension with a dynamic virtual world, deviating from the traditional maze setup. Players control Pac-Man as he navigates a rich environment filled with terrains, trees, grass, and water, all while collecting food pellets to maintain his energy.
